@@ -10,5 +10,6 @@
 
 <input type="button" value="HelloServlet" onClick="location.href='HelloServlet'">
 <input type="button" value="WelcomeServlet" onClick="location.href='Welcome.jsp'">
+<input type="button" value="問い合わせ" onClick="location.href='inquiry.jsp'">
 </body>
 </html>
